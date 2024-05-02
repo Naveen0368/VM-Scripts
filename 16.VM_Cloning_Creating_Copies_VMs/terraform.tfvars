@@ -1,0 +1,8 @@
+vsphere_user = "your_admin_user"
+vsphere_password = "your_admin_password"
+vsphere_datacenter = "your_datacenter"
+vsphere_resource_pool = "your_resource_pool"
+vsphere_datastore = "your_datastore"
+vsphere_network = "your_network"
+vsphere_virtual_machine_template = "your_template_name"
+vsphere_virtual_machine_name = "new_vm_name"
